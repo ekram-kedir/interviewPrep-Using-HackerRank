@@ -1,1 +1,1 @@
-# interviewPrep_Using_HackerRank
+# interviewPrep-Using-HackerRank
